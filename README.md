@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbarrett91
 - 👀 I’m interested in HTML, CSS, and JavaScript
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning @ Emeritus MIT X Pro 
 - 💞️ I’m looking to collaborate on literally anything 
 - 📫 How to reach me -> barrettjasmine722@gmail.com
 - 😄 Pronouns: She/Her
